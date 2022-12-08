@@ -16,6 +16,6 @@ Checkout Vite Here 👉🏻 https://vitejs.dev/ <br />
 to run this file type this in your terminal 👇🏻 <br />
 `npm run dev`
 
-Tailwind 👉🏻 https://tailwindcss.com/ <br />
-Daizy UI 👉🏻 https://daisyui.com/ <br />
+Tailwind 👉🏻 https://tailwindcss.com <br />
+Daizy UI 👉🏻 https://daisyui.com <br />
 Tailwind Elements 👉🏻 https://tailwind-elements.com <br />
