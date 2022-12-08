@@ -17,5 +17,6 @@ to run this file type this in your terminal 👇🏻 <br />
 `npm run dev`
 
 Tailwind 👉🏻 https://tailwindcss.com <br />
+Tailwind for React 👉🏻 https://tailwindcss.com/docs/guides/create-react-app <br />
 Daizy UI 👉🏻 https://daisyui.com <br />
 Tailwind Elements 👉🏻 https://tailwind-elements.com <br />
