@@ -10,6 +10,10 @@ You can do the following use this command in your terminal 👇🏻 <br />
 <br />
 
 This web application is created using Vite <br />
-Checkout Vite Here: ➡ https://vitejs.dev/ <br />
+Checkout Vite Here 👉🏻 https://vitejs.dev/ <br />
 to run this file type this in your terminal 👇🏻 <br />
 `npm run dev`
+
+Tailwind 👉🏻 https://tailwindcss.com/
+Daizy UI 👉🏻 https://daisyui.com/
+Tailwind Elements 👉🏻 https://tailwind-elements.com
