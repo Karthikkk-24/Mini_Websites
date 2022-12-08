@@ -6,7 +6,9 @@ You can do the following use this command in your terminal 👇🏻 <br />
 `npm install`
 
 <br />
-<br />
+
+![image](https://user-images.githubusercontent.com/86278623/206350402-7b0d5a45-ec32-40b7-9be6-ee5e7994a5cb.png)
+
 <br />
 
 This web application is created using Vite <br />
